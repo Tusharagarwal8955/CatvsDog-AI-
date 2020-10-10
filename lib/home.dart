@@ -109,7 +109,7 @@ class _HomeState extends State<Home> {
                         children: [
                           Image.asset('assets/cat.png'),
                           SizedBox(
-                            height: 50,
+                            height: 60,
                           )
                         ],
                       ),
